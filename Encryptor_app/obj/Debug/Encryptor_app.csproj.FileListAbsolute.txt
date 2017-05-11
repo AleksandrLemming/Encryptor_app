@@ -1,0 +1,9 @@
+D:\Projects\Encryptor_app\Encryptor_app\bin\Debug\Encryptor_app.exe.config
+D:\Projects\Encryptor_app\Encryptor_app\bin\Debug\Encryptor_app.exe
+D:\Projects\Encryptor_app\Encryptor_app\bin\Debug\Encryptor_app.pdb
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.csprojResolveAssemblyReference.cache
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.Form1.resources
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.Properties.Resources.resources
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.csproj.GenerateResource.Cache
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.exe
+D:\Projects\Encryptor_app\Encryptor_app\obj\Debug\Encryptor_app.pdb

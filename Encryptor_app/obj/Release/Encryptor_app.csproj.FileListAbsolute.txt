@@ -1,0 +1,8 @@
+D:\Projects\Encryptor_app\Encryptor_app\bin\Release\Encryptor_app.exe.config
+D:\Projects\Encryptor_app\Encryptor_app\bin\Release\Encryptor_app.exe
+D:\Projects\Encryptor_app\Encryptor_app\bin\Release\Encryptor_app.pdb
+D:\Projects\Encryptor_app\Encryptor_app\obj\Release\Encryptor_app.Form1.resources
+D:\Projects\Encryptor_app\Encryptor_app\obj\Release\Encryptor_app.Properties.Resources.resources
+D:\Projects\Encryptor_app\Encryptor_app\obj\Release\Encryptor_app.csproj.GenerateResource.Cache
+D:\Projects\Encryptor_app\Encryptor_app\obj\Release\Encryptor_app.exe
+D:\Projects\Encryptor_app\Encryptor_app\obj\Release\Encryptor_app.pdb
